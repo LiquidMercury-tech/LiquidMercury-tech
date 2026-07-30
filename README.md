@@ -2,7 +2,7 @@
 
 I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curious student always looking for a challenge, with my core focus being Machine Learning, Data Science and Applied Mathematics
 
-### Current Focus:
+### Recents:
 
 - Coding in Python: Spending most of my time writing Python code and building ML projects 
 
