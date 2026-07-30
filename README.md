@@ -30,4 +30,4 @@ I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curiou
 
 ### Contact me:
 - dipsonm136@gmail.com
-- https://www.instagram.com/divinaura_deus/
+- https://www.instagram.com/dusk_deus/
