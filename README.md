@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curious student always looking for a challenge, with my core focus being Machine Learning, Data Science and Applied Mathematics
+I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curious student always looking for a challenge, with my core focus being Machine Learning, Data Science and Applied Mathematics. I am currently participating in WQU's Data Science Lab program.
 
 ### Recents:
 
