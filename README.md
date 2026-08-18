@@ -31,3 +31,5 @@ I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curiou
 ### Contact me:
 - dipsonm136@gmail.com
 - https://www.instagram.com/dusk_deus/
+
+![Snake Animation](https://raw.githubusercontent.com/LiquidMercury-tech/LiquidMercury-tech/output/github-contribution-grid-snake.svg)
