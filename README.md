@@ -34,12 +34,13 @@ I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curiou
   
 <div align="center">
 
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LiquidMercury-tech&show_icons=true&theme=radical&hide_border=true" alt="LiquidMercury-tech's GitHub Stats" />
+  <!-- GitHub Stats Card -->
 
-  <br />
+  <img src="https://github-stats-extended.vercel.app/api?username=LiquidMercury-tech&show_icons=true&theme=radical&hide_border=true" alt="LiquidMercury-tech GitHub Stats" />
 
-  <!-- Continuous Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiquidMercury-tech&theme=radical&hide_border=true" alt="LiquidMercury-tech's Streak" />
+  <br /><br />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiquidMercury-tech&theme=radical" alt="GitHub Streak" />
 
 </div>
