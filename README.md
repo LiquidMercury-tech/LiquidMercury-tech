@@ -31,5 +31,15 @@ I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curiou
 ### Contact me:
 - dipsonm136@gmail.com
 - https://www.instagram.com/dusk_deus/
+  
+<div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/LiquidMercury-tech/LiquidMercury-tech/output/github-contribution-grid-snake.svg)
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=LiquidMercury-tech&show_icons=true&theme=radical&hide_border=true" alt="LiquidMercury-tech's GitHub Stats" />
+
+  <br />
+
+  <!-- Continuous Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiquidMercury-tech&theme=radical&hide_border=true" alt="LiquidMercury-tech's Streak" />
+
+</div>
