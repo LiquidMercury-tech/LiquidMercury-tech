@@ -32,15 +32,5 @@ I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curiou
 - dipsonm136@gmail.com
 - https://www.instagram.com/dusk_deus/
   
-<div align="center">
 
-  <!-- GitHub Stats Card -->
-
-  <img src="https://github-stats-extended.vercel.app/api?username=LiquidMercury-tech&show_icons=true&theme=radical&hide_border=true" alt="LiquidMercury-tech GitHub Stats" />
-
-  <br /><br />
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiquidMercury-tech&theme=radical" alt="GitHub Streak" />
-
-</div>
+ 
