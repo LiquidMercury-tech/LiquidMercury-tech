@@ -28,9 +28,7 @@ I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curiou
 
 - Reading: Books, manhwas, and thinking about random philosophical questions on reddit
 
-### Contact me:
-- dipsonm136@gmail.com
-- https://www.instagram.com/dusk_deus/
+
   
 
  
