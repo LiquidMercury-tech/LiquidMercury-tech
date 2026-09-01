@@ -9,7 +9,6 @@ I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curiou
 - Vibecoding & Web Basics: Vibecoding websites while playing around with HTML, CSS, JS, and PHP
 
 - I have recently gotten into this new website called join.ai, where you code snippets similar to leetcode but this one is specifically for AI, Ml and maths. <br>
-  [Join me here if you're interested.](https://www.joinai.com/u/dipson_mishra)
 
 - Trying to figure Out AI: Learning the fundamentals of AI, working through DSA, and taking it one step at a time
 
